@@ -1,2 +1,2 @@
-# CGPA-calculator
-developed by using Android studio and java language 
+# GPA-CGPA-Application-using-android-studio
+Application to calculate GPA/CGPA and contain choose GPA or CGPA Calculator written java language.

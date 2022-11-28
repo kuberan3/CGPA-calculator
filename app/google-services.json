@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215095814170",
+    "project_id": "gpa-application-276aa",
+    "storage_bucket": "gpa-application-276aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215095814170:android:fa85be7c5054ae314d09a3",
+        "android_client_info": {
+          "package_name": "com.tectdecod.gpa_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215095814170-7c7921qvbiuvmvuu7o6lll3b7u3r0u02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmqaaRobf9m195JRlnU5YGTnyERUUdNX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215095814170-7c7921qvbiuvmvuu7o6lll3b7u3r0u02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
